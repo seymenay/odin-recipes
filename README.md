@@ -1,1 +1,2 @@
 # odin-recipes
+In this elementary-level project, I have completed several tasks. The project revolves around recipes and organizing them with unordered (ul) and ordered (ol) lists. This involves practicing with images, links, and creating a boilerplate section.
